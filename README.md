@@ -18,3 +18,4 @@ Artifacts will appear in `models/reports/` (metrics, simulations) and the traine
 Run locally:
 ```bash
 streamlit run app.py
+<img width="1911" height="987" alt="image" src="https://github.com/user-attachments/assets/876ecd1e-d7b1-402b-a881-3e5169eb98cc" />
