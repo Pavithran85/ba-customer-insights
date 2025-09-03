@@ -13,3 +13,8 @@ make simulate
 Artifacts will appear in `models/reports/` (metrics, simulations) and the trained model in `models/artifacts/`.
 
 > Learning project using public/synthetic data; not affiliated with British Airways.
+
+## Interactive Dashboard
+Run locally:
+```bash
+streamlit run app.py
