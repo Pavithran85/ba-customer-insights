@@ -1,0 +1,4 @@
+scenario,baseline,scenario_p,avg_lift
+Seat comfort +0.5,0.9212948,0.92790276,0.0066079497
+On-time +10pp,0.9212948,0.9364529,0.015158117
+Lounge voucher,0.9212948,0.9212948,0.0
